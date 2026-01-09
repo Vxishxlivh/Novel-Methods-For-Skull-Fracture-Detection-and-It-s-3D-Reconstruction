@@ -182,4 +182,4 @@ Incorporate explainable AI (XAI) modules for interpretability
 
 🏁 Conclusion
 
-The proposed Skull R-CNN + YOLOv8 framework significantly enhances skull fracture detection and visualization accuracy while reducing diagnostic time. It demonstrates the power of combining deep learning with medical imaging for life-saving applications.
+The proposed Skull R-CNN + YOLOv8 framework significantly enhances skull fracture detection and visualization accuracy while reducing diagnostic time. It demonstrates the power of combining deep learning with medical imaging for life-saving applications. 
