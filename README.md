@@ -3,7 +3,7 @@
 
 This project presents “Novel Methods for Skull Fracture Detection and Its 3D Reconstruction”, a deep learning–driven approach to accurately identify skull fractures from CT scan data and visualize them in 3D. It combines Region-Based Convolutional Neural Networks (R-CNN) with YOLOv8 architecture to achieve real-time detection accuracy exceeding 95%, alongside automated 3D skull reconstruction from DICOM images.
 
-The proposed model—Skull R-CNN—addresses the limitations of existing detection systems by integrating morphological skull features, skeleton-based region proposals, and a full-resolution feature network for enhanced precision and reduced false positives.
+The proposed model—Skull R-CNN—addresses the limitations of existing detection systems by integrating morphological skull features, skeleton-based region proposals, and a full-resolution feature network for enhanced precision and reduced false positives. 
 
 🎯 Objectives
 
