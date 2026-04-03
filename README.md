@@ -8,7 +8,7 @@ The proposed model—Skull R-CNN—addresses the limitations of existing detecti
 ## 📦 Download
 
 Download the full project files (code, models, dataset):
-👉 [Download from Google Drive]([your-google-drive-link-here](https://drive.google.com/file/d/11I78QCBN7hGicXAWeGRZabli3Ujl0OFK/view?usp=sharing))
+👉 [Download from Google Drive](https://drive.google.com/file/d/11I78QCBN7hGicXAWeGRZabli3Ujl0OFK/view?usp=sharing))
 
 🎯 Objectives
 
