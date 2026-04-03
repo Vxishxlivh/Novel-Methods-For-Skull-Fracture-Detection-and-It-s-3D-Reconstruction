@@ -5,6 +5,11 @@ This project presents “Novel Methods for Skull Fracture Detection and Its 3D R
 
 The proposed model—Skull R-CNN—addresses the limitations of existing detection systems by integrating morphological skull features, skeleton-based region proposals, and a full-resolution feature network for enhanced precision and reduced false positives. 
 
+## 📦 Download
+
+Download the full project files (code, models, dataset):
+👉 [Download from Google Drive]([your-google-drive-link-here](https://drive.google.com/file/d/11I78QCBN7hGicXAWeGRZabli3Ujl0OFK/view?usp=sharing))
+
 🎯 Objectives
 
 Accurate Detection: Develop a robust deep learning model for early detection of skull fractures from CT or MRI scans.
